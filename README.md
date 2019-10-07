@@ -1,4 +1,4 @@
 # ShouldURelocate
 Calculates change in standard of living given relocation and compensation 
 
-![](Capture.PNG)
+![](testPic.JPEG)
